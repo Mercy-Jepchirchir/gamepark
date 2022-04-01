@@ -6,6 +6,7 @@
     
     body{
        background-color: rgb(229, 194, 147);
+       
     
     }
     nav{
@@ -75,13 +76,15 @@ tr:nth-child(odd){
 
 
 footer{
-    background-color: blueviolet;
-    position: relative;
-    height: 200px;
-    margin-top: 200px;
-    clear: both;
-    text-align: 20px;
-    font-size: 20px;
+   text-align: center;
+   font-size: large;
+   text-decoration: underline;
+   font-style: italic;
+   color: white;
+   background-color: lightcoral;
+   height: 100;
+   width: 700;
+
 }
 footer ul li a {
    margin-right: 15%;

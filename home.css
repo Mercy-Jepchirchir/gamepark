@@ -73,3 +73,12 @@
        background-image: url(/census.png);
        background-size: cover;
     } */
+    footer{
+       text-align: center;
+       font-size: large;
+       text-decoration: underline;
+       font-style: italic;
+       color: white;
+       background-color: lightcoral;
+
+    }
